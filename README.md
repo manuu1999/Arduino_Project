@@ -1,6 +1,6 @@
 # MicroMelody 🎵
 
-MicroMelody is an Arduino-based MIDI keyboard and MP3 playback station that we created for the module computer architecture at the university of Basel.
+MicroMelody is an Arduino-based MIDI keyboard and MP3 playback station, created for the **Computer Architecture** module at the University of Basel.
 
 ## Features
 - **MIDI Keyboard** (Arduino Leonardo)  
@@ -27,9 +27,9 @@ MicroMelody is an Arduino-based MIDI keyboard and MP3 playback station that we c
 
 ## How to Use
 1. Upload the MIDI code to Arduino Leonardo and connect it to a DAW.  
-2. Upload the MP3 playback code to Arduino Uno with an SD card containing songs.
-3. Assemble the hardware (based on the documentation)
-4. Use the keyboard for live music creation and playback system for background tracks.  
+2. Upload the MP3 playback code to Arduino Uno with an SD card containing songs.  
+3. Assemble the hardware (see wiring details in the documentation).  
+4. Use the keyboard for live music creation and the playback system for background tracks.  
 
 ## Authors  
 **Dion Ibra, Elton Zijadin Malici, Manuel Buser**  
